@@ -1,4 +1,4 @@
-# starlink-dish-custom-part-
+# starlink-dish-custom-part
 meet a starlink dish custom part
 
 of you found bugs click issues
